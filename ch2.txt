@@ -1,1 +1,1 @@
-It is a fantastic period to learn about GitHub.
+It is a fantastic period to learn about GitHub branch and Git checkout.
